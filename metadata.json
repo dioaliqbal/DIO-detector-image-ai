@@ -1,0 +1,6 @@
+{
+  "name": "Verifai - Detektor Gambar AI & Human",
+  "description": "Aplikasi deteksi keaslian gambar AI vs manusia dengan analisis presisi, riwayat scan, dan wawasan komprehensif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
